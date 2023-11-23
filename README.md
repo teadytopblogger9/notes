@@ -30,3 +30,6 @@ To achieve this, you should focus on problem-solving and critical thinking skill
 
 # 2023-11-22
 - "Keep it simple, stupid!"
+
+# 2023-11-23
+- "Keep it simple, stupid!"
