@@ -38,3 +38,6 @@ To achieve this, you should focus on problem-solving and critical thinking skill
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while also acknowledging the ever-evolving nature of technology and the potential for users to find new ways to make mistakes or cause problems. It serves as a reminder to always consider the end-user and the potential for unexpected behavior when designing and coding software.
+
+# 2023-11-25
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadline. Next, allocate time for each task, making sure to leave enough time to address any potential issues or delays. Finally, use task management tools and version control systems to stay organised and track your progress. By following these tips, you can make better use of your Time and improve your overall efficiency as a programmer.
