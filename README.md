@@ -129,3 +129,10 @@ Finally, stay organised and disciplined in the way you work, especially when it 
 - Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
 
 This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, harder-to-maintain code, and ultimately wasted time. It's important to focus on writing clear, correct code first and only optimize when profiling has identified performance bottlenecks.
+
+# 2023-12-18
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge to stay current in the ever-evolving field of technology. Embrace the practice of iterative development, where you break down complex problems into smaller, manageable tasks and iterate through each step to achieve your ultimate goal.
+
+To be successful, it' s essential to have a solid foundation in core programming concepts, such as data structures, algorithms, and computer science principles. Practice good programming practices, like writing clean, concise code with well-organized functions and modules, using version control systems like Git, documenting your work, testing and debugging your code, as well as following industry standards and best practices. 
+ 学习新技能，如人工智能、机器学习和数据科学，以扩大你的职业机会。同时，培养良好的沟通和团队协作能力，因为这将帮助你更好地与同事和团队成员合作，共同解决问题。
+ 最后，保持耐心和毅力，因为在编程和软件开发中，成功往往需要时间和努力。记住，失败是成功之母，从错误中学习并不断改进是成为优秀程序员的关键。
