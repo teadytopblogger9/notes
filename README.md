@@ -148,3 +148,8 @@ To be successful, it' s essential to have a solid foundation in core programming
 
 # 2023-12-22
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, making sure to allow enough time so you don't feel rushed or overwhelmed. Finally, use task management tools and programming languages that support version control, like Git, to stay organised and track your progress. Remember to take breaks and keep your workspace clean, as this will also contribute to a more productive work environment.
+
+# 2023-12-23
+- Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex code may demonstrate your technical prowess, but simple, readable, and maintainable code demonstrates your understanding of the true essence of programming. Always strive to write code that is easy to read and understand, not just for others, but also for your future self." 
+
+This reminds us that while it's important to solve complex problems through programming, the real skill lies in breaking down those complexities into simpler components, making our code more efficient, less error-prone, and easier to debug and improve over time. Remember, programming is not just about writing code, it's also about communicating your thought process clearly to both humans and machines.
