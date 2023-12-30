@@ -175,3 +175,6 @@ This reminds us that while it's important to solve complex problems through prog
 1. Prioritize tasks: When you're working on a project, it'ss important to know which tasks are most important and which can wait. By prioritizing your tasks based on their urgency and value, you can make sure you spend your time on the right things.
 2. Plan ahead: Planning ahead is crucial for success in programming. Think about the bigger picture and what needs to happen to complete a task or project. Break down the work into smaller, manageable steps, then allocate time for each step.This will ensure that you stay on track and don't get derailed by unexpected challenges. 
 3. Stay organized: Keeping your code, project files, notes,and other resources organized is essential for finding information and avoiding duplication of effort. Use version control systems, like Git, to track changes and collaborate with others. Also, organize your local files and folders in a way that makes sense to you, so that when you need to find something,you can do it quickly and easily.
+
+# 2023-12-30
+- "Keep it simple, stupid!"
