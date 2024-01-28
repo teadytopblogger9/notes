@@ -317,3 +317,8 @@ In essence, this quote by Leonardo da Vinci resonates in programming as a remind
 1. Prioritize tasks: When you're working on a project, it' s important to determine which tasks are most critical and which can wait. By prioritizing your tasks in this way, you can make sure that you spend your time on the most important aspects of the project.
 2. Plan ahead: Always try to plan your day or week ahead of time. Jot down the tasks that need to get done and set realistic deadlines for each one. Then, at the end of each day, evaluate your progress and adjust your plan as needed. Planning ahead will ensure that your workload is manageable and that nothing falls through the cracks. 
 3. Stay organized: Keep your workspace clean and tidy, with all of your code, files, notes, etc. organized in a way that makes sense to you. Using version control systems, like Git, can also help to keep your project organized and easy to track. Organizing and maintaining good habits will save you time and frustration in the long run.
+
+# 2024-01-28
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, strive for clarity and conciseness. Write code that's easy to read, understand, and maintain. Avoid unnecessary complexity; it often leads to bugs and harder debugging. Remember, you're not just writing code for the computer but also for fellow humans who may interact with it in the future." 
+
+Also, "Optimize for readability first, then performance." - Martin Fowler. Focus on making your code clear and functional before prematurely optimizing it. Premature optimization can lead to obfuscated code and might not even solve the actual bottlenecks. Use profiling tools to identify where optimizations are genuinely needed."
