@@ -368,3 +368,10 @@ In brief:
 
 Second, use time management techniques to your advantage. Block out time in the day or week for specific tasks to ensure you have time to work on what you need to. Using a scheduling tool like Todoist or Trello can help keep you organized and on track. Remember to allow time for breaks and downtime, as this can lead to increased productivity and creativity. 
  - 来自NLP技术团队
+
+# 2024-02-08
+- Today's programming wisdom is:
+
+"Premature optimization is the root of all evil." - Donald Knuth
+
+This quote reminds programmers that while efficiency is important, it shouldn't be the primary focus during the initial stages of development. Instead, one should first focus on writing clear, correct, and maintainable code. Only after identifying through profiling or other means where performance bottlenecks truly exist should you optimize. This principle helps prevent wasting time optimizing parts of a program that have little impact on overall performance and keeps the codebase clean and comprehensible.
