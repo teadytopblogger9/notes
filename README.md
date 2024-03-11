@@ -520,3 +520,8 @@ Also, "Code is meant to be read by humans and only incidentally executed by mach
 
 Secondly, planning ahead is crucial. Before starting a new project or undertaking a task, take the time to plan out the steps you need to take. Creating a detailed plan will ensure you have all the information and resources you require to complete the task successfully. It will also help to avoid last-minute scrambling and stress. 
  -- 211个词
+
+# 2024-03-11
+- Today's programming wisdom: "Code is read far more often than it's written. Optimize for clarity and maintainability over premature optimization." 
+
+In essence, this advice highlights the importance of writing clean, understandable code that can be easily read and maintained by others (including your future self). It reminds us that while efficiency is crucial, it should not come at the cost of readability and simplicity unless profiling indicates a genuine need for optimization in that specific area of code. This principle encourages developers to prioritize good design, structure, and documentation, which ultimately leads to better software quality and a more efficient development process overall.
